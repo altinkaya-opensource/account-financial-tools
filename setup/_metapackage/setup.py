@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo-addon-account_account_tag_code>=16.0dev,<16.1dev',
         'odoo-addon-account_asset_batch_compute>=16.0dev,<16.1dev',
+        'odoo-addon-account_asset_low_value>=16.0dev,<16.1dev',
         'odoo-addon-account_asset_management>=16.0dev,<16.1dev',
         'odoo-addon-account_asset_management_stock_lot>=16.0dev,<16.1dev',
         'odoo-addon-account_asset_number>=16.0dev,<16.1dev',
@@ -19,6 +20,7 @@ setuptools.setup(
         'odoo-addon-account_chart_update>=16.0dev,<16.1dev',
         'odoo-addon-account_chart_update_l10n_eu_oss_oca>=16.0dev,<16.1dev',
         'odoo-addon-account_chart_update_multilang>=16.0dev,<16.1dev',
+        'odoo-addon-account_dashboard_banner>=16.0dev,<16.1dev',
         'odoo-addon-account_fiscal_month>=16.0dev,<16.1dev',
         'odoo-addon-account_fiscal_position_vat_check>=16.0dev,<16.1dev',
         'odoo-addon-account_fiscal_year>=16.0dev,<16.1dev',
