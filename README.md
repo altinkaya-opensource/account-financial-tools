@@ -29,7 +29,7 @@ addon | version | maintainers | summary
 [account_asset_number](account_asset_number/) | 16.0.1.1.0 |  | Assets Number
 [account_asset_transfer](account_asset_transfer/) | 16.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Asset Transfer from AUC to Asset
 [account_bank_statement_chatter](account_bank_statement_chatter/) | 16.0.1.0.0 | <a href='https://github.com/cubells'><img src='https://github.com/cubells.png' width='32' height='32' style='border-radius:50%;' alt='cubells'/></a> | Chatter on bank statements
-[account_cash_deposit](account_cash_deposit/) | 16.0.1.3.0 |  | Manage cash deposits and cash orders
+[account_cash_deposit](account_cash_deposit/) | 16.0.1.4.0 |  | Manage cash deposits and cash orders
 [account_chart_update](account_chart_update/) | 16.0.2.0.8 |  | Wizard to update a company's account chart from a template
 [account_chart_update_l10n_eu_oss_oca](account_chart_update_l10n_eu_oss_oca/) | 16.0.1.0.0 | <a href='https://github.com/LoisRForgeFlow'><img src='https://github.com/LoisRForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='LoisRForgeFlow'/></a> | Account Chart update OSS OCA
 [account_chart_update_multilang](account_chart_update_multilang/) | 16.0.1.0.3 | <a href='https://github.com/edlopen'><img src='https://github.com/edlopen.png' width='32' height='32' style='border-radius:50%;' alt='edlopen'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> | Update tax and fiscal position templates with multilang
@@ -39,10 +39,10 @@ addon | version | maintainers | summary
 [account_fiscal_year](account_fiscal_year/) | 16.0.1.3.0 | <a href='https://github.com/eLBati'><img src='https://github.com/eLBati.png' width='32' height='32' style='border-radius:50%;' alt='eLBati'/></a> | Create Account Fiscal Year
 [account_fiscal_year_auto_create](account_fiscal_year_auto_create/) | 16.0.1.0.2 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Automatically create new fiscal years, based on the datas of the last fiscal years
 [account_invoice_constraint_chronology](account_invoice_constraint_chronology/) | 16.0.1.1.3 |  | Account Invoice Constraint Chronology
-[account_journal_general_sequence](account_journal_general_sequence/) | 16.0.2.0.2 | <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Add configurable sequence to account moves, per journal
+[account_journal_general_sequence](account_journal_general_sequence/) | 16.0.2.1.0 | <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Add configurable sequence to account moves, per journal
 [account_journal_lock_date](account_journal_lock_date/) | 16.0.1.0.0 |  | Lock each journal independently
 [account_journal_restrict_mode](account_journal_restrict_mode/) | 16.0.1.1.0 |  | Lock All Posted Entries of Journals.
-[account_loan](account_loan/) | 16.0.1.0.7 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Account Loan management
+[account_loan](account_loan/) | 16.0.1.0.8 | <a href='https://github.com/etobella'><img src='https://github.com/etobella.png' width='32' height='32' style='border-radius:50%;' alt='etobella'/></a> | Account Loan management
 [account_lock_date_update](account_lock_date_update/) | 16.0.1.0.1 |  | Allow an Account adviser to update locking date without having access to all technical settings
 [account_lock_to_date](account_lock_to_date/) | 16.0.1.0.0 |  | Allows to set an account lock date in the future.
 [account_move_budget](account_move_budget/) | 16.0.1.0.0 |  | Create Accounting Budgets
